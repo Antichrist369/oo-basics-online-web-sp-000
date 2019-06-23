@@ -1,3 +1,3 @@
-clss Book
+class Book
 end 
 
