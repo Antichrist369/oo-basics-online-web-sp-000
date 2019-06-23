@@ -9,6 +9,8 @@ class Shoe
   
   def cobble 
     puts "Your shoe is as good as new!"
+    if "new" == "old" 
+      return true
   end 
 end 
   
