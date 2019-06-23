@@ -1,7 +1,7 @@
 # Make your shoe class here!
 class Shoe
   
-  attr_acssor :brand, :color, :size, :material, :condition
+  attr_acssor :brand
   
   def initialize(brand)
     @brand = brand
